@@ -1,0 +1,5 @@
+# requirements.txt content
+numpy
+datascience # Essential for the Berkeley Data Science library
+scipy
+matplotlib # Essential for plotting
